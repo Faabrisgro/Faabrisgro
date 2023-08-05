@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊 I’m passionate about data. <br>📈 Road to Professional Data Scientist. <br>🕹 Gamer and 🌿 Vegetarian. <br>✈ Open to living abroad.
+📊 I’m passionate about data and machine learning. <br>📈 Making my way into a full Professional Data Scientist. <br>🕹 Gamer and 🌿 Vegetarian. <br>✈ Ready to explore the world.
 
 
 ## 🌐 Socials:
